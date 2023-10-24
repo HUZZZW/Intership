@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.inter.controller.Person",
+      "sourceType": "com.example.inter.controller.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.accont",
+      "type": "java.lang.String",
+      "sourceType": "com.example.inter.controller.Person"
+    },
+    {
+      "name": "person.pasword",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.inter.controller.Person"
+    }
+  ],
+  "hints": []
+}
