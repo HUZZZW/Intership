@@ -4,8 +4,8 @@ server:
   address: 127.0.0.1
 spring:
   datasource:
-    url: jdbc:mysql://localhost3306/intership?characterEncoding=UFT8&autoReconnect=true&serverTimezone=Asia/Shanghai&allowMultiQueries=true
+    url: jdbc:mysql://localhost:3306/inter?characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai&allowMultiQueries=true
     username: root
-    password: root
+    password: Hzhym1996
     driver-class-name: com.mysql.cj.jdbc.Driver
 
